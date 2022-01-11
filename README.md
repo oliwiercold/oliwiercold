@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oliwiercold
+- 👀 I’m interested in listening to music and playing some games
+- 🌱 I’m currently learning python
